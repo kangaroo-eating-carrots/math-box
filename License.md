@@ -1,1 +1,2 @@
-License: free
+# 라이센스
+Free
